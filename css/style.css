@@ -1,0 +1,8 @@
+label span{
+  color:red;
+}
+
+label span::after{
+  content: "*";
+}
+  
